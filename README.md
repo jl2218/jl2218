@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-faria-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jl2218&show_icons=true&theme=radical)
+![João's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=jl2218&layout=compact&theme=radical)
 
 ## Tecnologias que domino
 
